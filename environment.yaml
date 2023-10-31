@@ -33,6 +33,7 @@ dependencies:
       - ginga
       - jwst
       - nictools
+      - poppy
       - pysynphot
       - reftools
       - stcal
@@ -43,3 +44,4 @@ dependencies:
       - synphot
       - wfc3tools
       - wfpc2tools
+      - webbpsf
